@@ -1,0 +1,30 @@
+2015-06-24 11:56:13 [INFO    ] server9   ***** Server started *****
+2015-06-24 11:56:13 [INFO    ] server15  onJoin
+2015-06-24 11:56:13 [DEBUG   ] server28  Function registered
+2015-06-24 11:57:27 [INFO    ] server9   ***** Server started *****
+2015-06-24 11:57:27 [INFO    ] server17  onJoin
+2015-06-24 11:57:27 [DEBUG   ] server30  Function registered
+2015-06-24 12:01:44 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:01:44 [INFO    ] server20  onJoin
+2015-06-24 12:01:44 [DEBUG   ] server32  Function registered
+2015-06-24 12:04:26 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:04:26 [INFO    ] server20  onJoin
+2015-06-24 12:04:26 [DEBUG   ] server35  Functions registered
+2015-06-24 12:07:16 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:07:16 [INFO    ] server20  onJoin
+2015-06-24 12:07:16 [DEBUG   ] server35  Functions registered
+2015-06-24 12:12:40 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:12:40 [INFO    ] server20  onJoin
+2015-06-24 12:12:40 [DEBUG   ] server35  Functions registered
+2015-06-24 12:20:45 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:20:45 [INFO    ] server21  onJoin
+2015-06-24 12:20:46 [DEBUG   ] server45  Functions registered
+2015-06-24 12:43:41 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:43:41 [INFO    ] server21  onJoin
+2015-06-24 12:43:42 [DEBUG   ] server45  Functions registered
+2015-06-24 12:47:55 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:47:56 [INFO    ] server21  onJoin
+2015-06-24 12:48:08 [INFO    ] server9   ***** Server started *****
+2015-06-24 12:48:08 [INFO    ] server21  onJoin
+2015-06-24 12:48:08 [DEBUG   ] server51  Functions registered
+2015-06-24 12:48:17 [DEBUG   ] server39  Serve big file
