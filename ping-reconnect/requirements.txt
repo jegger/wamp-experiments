@@ -1,0 +1,10 @@
+Cython==0.20
+Kivy==1.9.1.dev.1
+Kivy-Garden==0.1.1
+pygame==1.9.2a0
+socketIO-client==0.5.3
+qrcode==4.0.4
+Twisted==15.2.1
+autobahn==0.11.0-dev1
+pyOpenSSL==0.15.1
+service-identity==14.0.0
